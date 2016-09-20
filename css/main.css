@@ -1,0 +1,54 @@
+.jumbotron{
+	background-image:url("../img/home.jpg"); 
+	height: 400px;
+	margin-top: -50px;
+}
+.jumbotron h1{
+	color: white !important;
+	font-family: 'Noto Sans', sans-serif;
+}
+.jumbotron p{
+	font-family: 'Noto Sans', sans-serif;
+}
+.seccion2{
+	padding: 30px;
+}
+.seccion2 h3{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.jumbotron2{
+	background-color: yellow;
+	padding: 10px;
+}
+.jumbotron2 img{
+	margin-top: 30px;
+	margin-bottom:30px;
+}
+.jumbotron2 h4{
+	margin-top: 70px;
+	margin-bottom:20px;
+	font-family: 'Noto Sans', sans-serif;
+} 
+.jumbotron2 p{
+	text-decoration: justify;
+	font-family: 'Noto Sans', sans-serif;
+}
+.contacto{
+	padding: 30px;
+	margin-top: 30px;
+}
+.btn btn-default{
+	background-color: 
+}
+.footer{
+	padding: 30px;
+	background-color:#20B2AA;
+}
+.footer p{
+	color:white;
+	font-family: 'Noto Sans', sans-serif;
+}
+span{
+	color:#FFFF00;
+}
